@@ -1,0 +1,17 @@
+.App{
+  margin: 0 auto;
+
+}
+
+.banner{
+  margin: auto;
+  padding: 20px;
+  background: linear-gradient(to right, lightblue, gray);
+  border-radius: 10px;
+  width: 1000px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+ align-content: stretch;
+}
